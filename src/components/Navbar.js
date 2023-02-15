@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-export const Navbar = (props) => {
+export default function Navbar(props) {
     return (<>
         <nav className="navbar navbar-expand-lg bg-body-tertiary">
             <div className="container-fluid">
