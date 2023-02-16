@@ -1,37 +1,11 @@
 import React, { useState } from 'react'
 
 
-export default function About() {
-    const [myStyle, setMyStyle] = useState({
-        backgroundColor: 'white',
-        color: 'black'
-    });
-
-    const [btnText, setbtnText] = useState('Enable Dark Mode');
-
-    const ToggleStyle = () => {
-        if (myStyle.color === 'white') {
-            setMyStyle({
-                color: 'black',
-                backgroundColor: 'white'
-            })
-            setbtnText('Enable Dark Mode')
-        }
-        else {
-            setMyStyle({
-                backgroundColor: 'black',
-                color: 'white'
-            })
-            setbtnText('Enable Light Mode');
-
-        }
-
-    }
-
+export default function About(props) {
 
     return (
         <>
-            <div className='container  my-5' style={myStyle}>
+            <div className='container  my-5'>
                 <h1 className='my-3'>About us</h1>
                 <p>Welcome to Text Analyzer, a powerful tool designed to help you analyze, understand and improve your writing. At Text Analyzer, we are passionate about language and we believe that clear and effective communication is key to success in any field.</p>
 
@@ -43,9 +17,6 @@ export default function About() {
 
                 <p>At Text Analyzer, we believe that great writing is within reach of everyone, and we are here to help you achieve your goals. Whether you are writing a report for school, a proposal for work, or simply sending an email, we are here to help you communicate more effectively. Thank you for choosing Text Analyzer.</p>
 
-            </div>
-            <div className="container">
-                <button type='button' onClick={ToggleStyle} className='btn btn-primary' style={myStyle}>{btnText}</button>
             </div>
         </>
 
