@@ -20,7 +20,7 @@ jobs:
         run: npm run build
 
       - name: Deploy to production
-        uses: shivam00005/TextUtils@v4
+        uses:  JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: build
