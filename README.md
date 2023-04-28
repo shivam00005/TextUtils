@@ -10,12 +10,18 @@ To use the app, users simply need to input the text they want to manipulate or a
 The TextUtils web app was created to provide a convenient and efficient solution for anyone who works with text regularly, such as content writers, editors, and students. By eliminating the need for multiple tools and providing all necessary text functions in one place, this app saves time and simplifies the text-related tasks.
 
 
+## Tech Stack
+
+**Client:** React, Redux, CSS3
+
+**Server:** Node
+
 ## Screenshots :camera:
 
-<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/home-page.png" alt="home page" width="900" height="900">
-<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/entered-text.png" alt="entered text" width="900" height="900">
-<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/upper-case.png" alt="upper case" width="900" height="900">
-<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/white-screen.png" alt="white-screen" width="900" height="900">
+<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/home-page.png" alt="home page">
+<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/entered-text.png" alt="entered text">
+<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/upper-case.png" alt="upper case">
+<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/white-screen.png" alt="white-screen">
 
 
 ## Demo :information_desk_person:	
@@ -98,6 +104,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
 ## Feedback :email:
 
 If you have any feedback, please reach out to us at sharmn6395960@gmail.com
@@ -107,4 +139,4 @@ If you have any feedback, please reach out to us at sharmn6395960@gmail.com
 
 Copyright (c) 2023 Shivam Sharma
 
-Licensed under the MIT License, available here: https://github.com/shivam00005/Weatherapp_React/blob/master/LICENSE
+Licensed under the MIT License, available here: https://github.com/shivam00005/TextUtils/blob/main/LICENSE
