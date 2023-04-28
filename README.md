@@ -1,8 +1,35 @@
-# Getting Started with Create React App
+
+# TextUtils Web App How & why :interrobang:
+
+TextUtils is a web application created by Shivam Jain that allows users to manipulate and analyze text. This application was designed to help users save time and effort by providing a one-stop platform for various text-related tasks.
+
+The web app has several features, including converting text to uppercase or lowercase, removing extra spaces, counting words and characters.
+
+To use the app, users simply need to input the text they want to manipulate or analyze into the provided text box, select the desired function, and click the appropriate button. The app then generates the output, which can be copied and pasted for further use.
+
+The TextUtils web app was created to provide a convenient and efficient solution for anyone who works with text regularly, such as content writers, editors, and students. By eliminating the need for multiple tools and providing all necessary text functions in one place, this app saves time and simplifies the text-related tasks.
+
+
+## Screenshots :camera:
+
+<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/home-page.png" alt="home page" width="900" height="900">
+<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/entered-text.png" alt="entered text" width="900" height="900">
+<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/upper-case.png" alt="upper case" width="900" height="900">
+<img src="https://raw.githubusercontent.com/shivam00005/TextUtils/main/screenshot/white-screen.png" alt="white-screen" width="900" height="900">
+
+
+## Demo :information_desk_person:	
+
+Live link to visit Weather web app: https://shivam00005.github.io/Weatherapp_React/
+
+
+## Installation :hammer:
+
+### Getting Started with Create React App :tada:	
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -39,7 +66,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
@@ -61,10 +88,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+
+## Deployment :computer:
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Feedback :email:
+
+If you have any feedback, please reach out to us at sharmn6395960@gmail.com
+
+
+## License :scroll:
+
+Copyright (c) 2023 Shivam Sharma
+
+Licensed under the MIT License, available here: https://github.com/shivam00005/Weatherapp_React/blob/master/LICENSE
