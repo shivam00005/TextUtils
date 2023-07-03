@@ -1,7 +1,7 @@
 
 # TextUtils Web App How & why :interrobang:
 
-TextUtils is a web application created by Shivam Jain that allows users to manipulate and analyze text. This application was designed to help users save time and effort by providing a one-stop platform for various text-related tasks.
+TextUtils is a web application created by Shivam that allows users to manipulate and analyze text. This application was designed to help users save time and effort by providing a one-stop platform for various text-related tasks.
 
 The web app has several features, including converting text to uppercase or lowercase, removing extra spaces, counting words and characters.
 
