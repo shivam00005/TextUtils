@@ -26,8 +26,7 @@ The TextUtils web app was created to provide a convenient and efficient solution
 
 ## Demo :information_desk_person:	
 
-Live link to visit Weather web app: https://shivam00005.github.io/Weatherapp_React/
-
+Live link to visit Weather web app: https://text-transform-utills.netlify.app/
 
 ## Installation :hammer:
 
